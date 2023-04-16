@@ -1,5 +1,6 @@
 /* eslint-disable react/jsx-key */
 //
+import "./css/style.css";
 import { useState } from "react";
 
 import Header from "./components/Header";
