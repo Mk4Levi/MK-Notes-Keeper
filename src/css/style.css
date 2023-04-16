@@ -34,7 +34,8 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #c4c4c4;
+  font-weight: bolder;
 }
 .note {
   background: #fff;
