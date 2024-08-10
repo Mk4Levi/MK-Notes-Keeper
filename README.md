@@ -1,6 +1,8 @@
 # Notes-Keeper React App
 
-## Website Link => https://mk-notes-keeper.netlify.app/
+## => This Notes-Keeper React app is an user-friendly and efficient note-taking application. Users can easily create, edit, and delete notes using the intuitive interface.
+
+## Project's Live Website Link => https://mk-notes-keeper.netlify.app/
 
 <h2>Getting Started</h2>
 
@@ -65,4 +67,3 @@ http://localhost:5173
 ```
 
 # Thank You
-
